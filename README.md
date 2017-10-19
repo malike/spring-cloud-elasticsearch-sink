@@ -1,1 +1,1 @@
-# spring-cloud-multi-tenant-http
+# spring-cloud-elasticsearch-sink
